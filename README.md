@@ -54,9 +54,9 @@ body, html {
 
 .hero-image {
 
-    background-size: cover;
-  height: 750px;
-  width: 1440px;
+  background-size: cover;
+  height: 650px;
+  width: 940px;
 
 }
 
@@ -106,8 +106,7 @@ body, html {
 
 
 
-
-/* From Uiverse.io by Yaya12085 */ 
+ 
 .folleto {
   overflow: hidden;
   border-radius: 0.5rem;
@@ -183,7 +182,6 @@ body, html {
 
 
 
-/* From Uiverse.io by kamehame-ha */ 
 .cards {
   display: flex;
   flex-direction: column;
@@ -294,7 +292,6 @@ body {
   }
 }
 
-/* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
 @media screen and (max-width: 600px) {
   .column {
     -ms-flex: 100%;
