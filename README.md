@@ -465,8 +465,6 @@ La pobreza es una situación en la que una persona o grupo de personas carecen d
 </center>
 <br>
 <br>
-</div>
-</div>
 
 
 
@@ -476,7 +474,17 @@ La pobreza es una situación en la que una persona o grupo de personas carecen d
 
 
 
-<div id="Paris" class="tabcontent">
+
+
+
+
+
+
+
+
+
+
+
   <center><FONT COLOR="black"><h1 class="OText">Comienzo a la Pobreza (Aumenta la pobreza)</h1></FONT></center>
  <br>
  <br>
@@ -509,12 +517,10 @@ La pobreza es una situación en la que una persona o grupo de personas carecen d
 <br>
 <br>
 
-</div>
 
 
 
 
-<div id="Tokyo" class="tabcontent">
    <center><FONT COLOR="black"><h1 class="OText">Fin de la Pobreza (Disminusion de la pobreza)</h1></FONT></center>
   <br>
 
@@ -561,9 +567,7 @@ Crear y participar en eventos tanto nacionales como internacionales, en donde se
   <center><img src="https://i.pinimg.com/736x/ca/a1/e8/caa1e859009bf8aa5f881cd7c7a81f40.jpg" width="650" height="350"></center>
 <br>
 <br>
-</div>
 
-<div id="Oslo" class="tabcontent">
 <center>
 <!-- Header -->
 <div class="header">
@@ -593,7 +597,28 @@ Crear y participar en eventos tanto nacionales como internacionales, en donde se
 
 
 </div></center>
+
+
+
+
+
+
+
+
+
+
+
+
+
 </div>
+</div>
+
+
+
+
+
+
+
 
 
 
