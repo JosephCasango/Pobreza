@@ -55,8 +55,8 @@ body, html {
 .hero-image {
 
   background-size: cover;
-  height: 650px;
-  width: 940px;
+  height: 350px;
+  width: 540px;
 
 }
 
@@ -333,6 +333,7 @@ La pobreza es una situación en la que una persona o grupo de personas carecen d
 </FONT>
 
 </center>
+
 
 
 <table style="width:100%">
